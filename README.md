@@ -20,13 +20,13 @@ I'm a **final-year Data Science student** with a passion for machine learning, d
 
 ## 📚 Projects
 
-### [Mitron Bank - Data Analysis Using Power BI]([link-to-project](https://www.linkedin.com/posts/prajaktamishra_ppt-activity-7147984216025190400-MrKi/))
+### [Mitron Bank - Data Analysis Using Power BI](https://www.linkedin.com/posts/prajaktamishra_ppt-activity-7147984216025190400-MrKi/)
 Enhanced a bank's credit card strategy by analyzing customer spending data and identifying spending patterns to suggest tailored credit card features.
 
-### [Electricity Demand Forecasting for Utility Optimization]([link-to-project](https://github.com/Praj-2808/Time-Series-Analysis-ARIMA))
+### [Electricity Demand Forecasting for Utility Optimization](https://github.com/Praj-2808/Time-Series-Analysis-ARIMA)
 Developed an end-to-end solution using time series models like SARIMA and Prophet to predict electricity demand, optimize power generation, and reduce costs.
 
-### [Comprehensive Obesity Risk Prediction]([link-to-project)](https://github.com/Praj-2808/obesity-risk)
+### [Comprehensive Obesity Risk Prediction](https://github.com/Praj-2808/obesity-risk)
 Built a predictive model using a **Random Forest Classifier** to assess obesity risk based on factors like age, weight, and family history.
 
 ## 🌱 I’m currently learning...
