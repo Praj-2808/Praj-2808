@@ -36,7 +36,7 @@ Built a predictive model using a **Random Forest Classifier** to assess obesity 
 ## 📫 How to reach me:
 - LinkedIn: [Prajakta Mishra](https://www.linkedin.com/in/prajaktamishra/)
 - Email: prajaktamishra16@gmail.com
-- GitHub: [@Prajaktamishra](https://github.com/Prajaktamishra)
+- GitHub: [@Prajaktamishra](https://github.com/Praj-2808/)
 
 Feel free to check out my repositories, and let's connect!
 
