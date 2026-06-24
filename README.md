@@ -36,7 +36,7 @@ Technologies: Python, Streamlit, Pandas, Plotly, Open-Meteo API
 Built a predictive model using a **Random Forest Classifier** to assess obesity risk based on factors like age, weight, and family history.
 Technologies: Python, Scikit-learn, XGBoost
 
-## Achievements and Extra Circular
+## 🏆Achievements and Extra Circular
 - Best Student of the Year in SLRTDC 2025
 - Hindi Linguistic Minority Representative, Student Council in SLRTDC
 - Head of Content Team in Cultural Team
